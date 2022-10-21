@@ -54,6 +54,8 @@ body{
     width: 100%;
     height: 1105px;
     background-image: url(Source/Virat-Kohli.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 #virat-logo{
